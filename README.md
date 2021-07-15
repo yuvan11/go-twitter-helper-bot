@@ -1,6 +1,6 @@
 ## Welcome to Twitter-Helper-Bot
     Note: 
-    This project is created for fun and learning.
+    This project is created for fun and learning using https://github.com/dghubble/go-twitter
     
     For developing a twitter bot, you should have Prerequisite of having a Twitter Developer Account. 
 ---
@@ -77,7 +77,7 @@ Before Run this bot, please follow the steps,
     2. pkg
     3. src
 
-    Go to src folder and clone the project repository from the URL 
+    Go to src folder and clone the project repository from the https://github.com/yuvan11/go-twitter-helper-bot.git
     
     clone the repository from project URL 
     
@@ -125,7 +125,7 @@ Run the program
     2. pkg
     3. src
 
-    Go to src folder and clone the project repository from the URL 
+    Go to src folder and clone the project repository from the https://github.com/yuvan11/go-twitter-helper-bot.git
     
     Run the command,
     make run
