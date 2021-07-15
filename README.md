@@ -139,13 +139,17 @@ Run the program
     3. Fetching tweets of the users whoever use the trending hastags
     4. Filtering the tweet status Id of the user from the user's tweet.
     5. Reweeting the tweet with help of the filtered user status ID
-
+---
 ## Benefits 
     Once you starting the bot, your bot will successfully post a new tweet and also retweeting the other users tweet with trending tags.
     
 `
 This project is still in development...  
 `
+---
+## LICENSE
+[MIT LICENSE](https://github.com/yuvan11/go-twitter-helper-bot/blob/master/LICENSE)
+
 
 
 
